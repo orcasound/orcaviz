@@ -3,7 +3,7 @@ A gallery of open data visualizations using Orcasound data. Browse the topical g
 
 **Can you create something better than these pioneering best visualizations yet of Orcasound's ecosystem and user data?**
 
-Top ecosystem viz | Top user data viz
+Top ecosystem viz (2022) | Top user data viz (2022)
 :----------------:|:----------------:
 <img alt="Screen Shot 2022-10-30 at 8 07 10 PM" src="https://user-images.githubusercontent.com/14044595/199586546-f3bc9a1a-9539-4ed8-8482-d395cd2f44d6.png"> | <img alt="Screen Shot 2022-11-02 at 12 38 08 PM" src="https://user-images.githubusercontent.com/14044595/199587686-cc1fab07-8037-4885-9e0e-5748cf32f7d0.png">
 Last 7 days of animal locations in the [Acartia.io](https://acartia.io) data cooperative. <br> By [Peter Ince](https://github.com/peterdouglas).  | Last month of daily traffic within the [Orcasound web app](live.orcasound.net). <br> By [Adrian MacDonald](linkedin.com/in/adrian-macdonald). 
