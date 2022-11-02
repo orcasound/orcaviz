@@ -2,7 +2,7 @@
 Gallery of data visualizations using Orcasound data. There is a [growing suite of raw data and data products which could be visualized](https://github.com/orcasound/orcadata/wiki/Data-visualization-opportunities), including (as of November, 2022):
 
 1. Raw audio data (HLS for all nodes; FLAC experimentally, intermittently)
-2. Human detections (labels from the [Orcasound web app](live.orcasound.net)
+2. Human detections (labels from community scientists listening live via the [Orcasound web app](live.orcasound.net))
 3. Machine detections (candidates and expert annotation within the [OrcaHello real-time inference system](https://ai4orcas.net/portfolio/orcahello/))
 4. Bioacoustic bouts (see [Google sheet of Orcasound annotation candidates](https://docs.google.com/spreadsheets/d/1Js1CgbmK0Vbe3m0DfiFim1BE4lXMzC75S7GN-7QEE7Y/edit#gid=0) some of which have been labled to various degrees as described in the [orcadata wiki](https://github.com/orcasound/orcadata/wiki))
 5. Marine animal location data (presence and sometimes track data, inferred from sightings, hearings, etc) via the [Acartia data cooperative](https://acartia.io)
