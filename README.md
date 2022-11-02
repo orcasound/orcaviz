@@ -1,5 +1,17 @@
 # orcaviz
-Gallery of data visualizations using Orcasound data. There is a [growing suite of raw data and data products which could be visualized](https://github.com/orcasound/orcadata/wiki/Data-visualization-opportunities), including (as of November, 2022):
+A gallery of open data visualizations using Orcasound data. **Can you create something better than these pioneering best visualizations yet of Orcasound's ecosystem and user data?**
+
+Top ecosystem viz             |  Top user data viz
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+<img width="1033" alt="Screen Shot 2022-10-30 at 8 07 10 PM" src="https://user-images.githubusercontent.com/14044595/199586546-f3bc9a1a-9539-4ed8-8482-d395cd2f44d6.png"> | <img width="943" alt="Screen Shot 2022-11-02 at 12 38 08 PM" src="https://user-images.githubusercontent.com/14044595/199587686-cc1fab07-8037-4885-9e0e-5748cf32f7d0.png">
+
+
+Browse the topical galleries for other precedents and innovative ideas. There you can find links to catalytic code and other resources that may be helpful.
+
+# Open data sources
+
+There is a [growing suite of raw data and data products which could be visualized](https://github.com/orcasound/orcadata/wiki/Data-visualization-opportunities), including (as of November, 2022):
 
 ## Ecosystem data sources
 
