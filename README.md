@@ -1,5 +1,5 @@
 # orcaviz
-Gallery of data visualizations using Orcasound data. There is a growing suite of raw data and data products which could be visualized, including (as of November, 2022):
+Gallery of data visualizations using Orcasound data. There is a [growing suite of raw data and data products which could be visualized](https://github.com/orcasound/orcadata/wiki/Data-visualization-opportunities), including (as of November, 2022):
 
 1. Raw audio data (HLS for all nodes; FLAC experimentally, intermittently)
 2. Human detections (labels from the [Orcasound web app](live.orcasound.net)
