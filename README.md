@@ -12,7 +12,7 @@ Gallery of data visualizations using Orcasound data. There is a [growing suite o
 ## Orcasound user data sources
 1. Subscriber list (Google form survey responses via notification banner at top of v2 [live.orcasound.net](live.orcasound.net))
 2. User feedback (e.g. Google form survey responses via Feedback button at bottom of v2 [live.orcasound.net](live.orcasound.net))
-3. Analytics (for the orcasound.net 2017 Wordpress site, the web aap at live.orcasound.net, social media channels, email lists, and open source community tools like Slack and Github)
+3. Analytics (for the orcasound.net 2017 Wordpress site, the web app at live.orcasound.net, social media channels, email lists, and open source community tools like Slack and Github)
 4. Other user research data (user interviews, usability tests, A/B tests...)
 
 
