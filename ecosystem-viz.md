@@ -29,17 +29,22 @@ Based on the video participation of Alisa and Howie from Orca Network, we tried 
 * [Gfolder with whale species icons](https://drive.google.com/drive/folders/1V1JCW-VX9TeQKS9sXQmuY9znKxG2wh93?usp=sharing)
 * [Gfolder with round whale icons](https://drive.google.com/drive/folders/1lZRbL7ejbwfcHvYaICr1vGkSxBSGGiBa?usp=sharing)
 
+#### Erika and Joyce mapped Acartia data via open layers within a web element
+
+Orcasound repo: [orcamap-sightings-web-element](https://github.com/orcasound/orcamap-sightigs-web-element) (forked from [orcamap-react](https://github.com/orcasound/orcamap-react))
+
 <img width="578" alt="Screen Shot 2022-11-02 at 4 17 51 PM" src="https://user-images.githubusercontent.com/14044595/199620222-944b50cf-83d5-4439-b88b-57606ac1f754.png">
 
-* Erika and Joyce web element open layers map (forked from `orcamap-react` repo)
+#### Christian pulled recent Acartia data and mapped with Python
+
+Christian's Colab notebook ([original shared link](https://colab.research.google.com/drive/13f0c8p-sd9Dux51Fuvh-HPAkGnviYpiK?usp=sharing) | [Github copy](https://github.com/orcasound/orcaviz/blob/main/ecosystem-viz/pull_acartio_data.ipynb))
 
 <img width="722" alt="Screen Shot 2022-11-02 at 4 18 11 PM" src="https://user-images.githubusercontent.com/14044595/199620229-9f2378fb-f4b6-4370-831a-d9253755d4bd.png">
 
-* Christian's Colab notebook ([original shared link](https://colab.research.google.com/drive/13f0c8p-sd9Dux51Fuvh-HPAkGnviYpiK?usp=sharing) | [Github copy]())
+#### Val experimented with algorithms to group observations (into pod tracks)
 
 ![srkw-python-tracks](https://user-images.githubusercontent.com/14044595/199620361-46b6378b-793c-4bb5-832f-9844b8b2d516.png)
 
-
-* Val's Colab notebook ([original shared link](https://colab.research.google.com/drive/1oVFX9OfAw05onwBjM_zu9LolAZx-lQgu#scrollTo=XIXE-mEJ59sJ) | [Github copy]())
+Val's Colab notebook ([original shared link](https://colab.research.google.com/drive/1oVFX9OfAw05onwBjM_zu9LolAZx-lQgu#scrollTo=XIXE-mEJ59sJ) | [Github copy](https://github.com/orcasound/orcaviz/blob/main/ecosystem-viz/pod_grouping.ipynb))
 
 
