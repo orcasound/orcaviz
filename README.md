@@ -3,7 +3,6 @@ A gallery of open data visualizations using Orcasound data. Browse the topical g
 
 **Can you create something better than these pioneering best visualizations yet of Orcasound's ecosystem and user data?**
 
-Value 1 | Value 2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 Top ecosystem viz | Top user data viz
 :----------------:|:----------------:
 <img alt="Screen Shot 2022-10-30 at 8 07 10 PM" src="https://user-images.githubusercontent.com/14044595/199586546-f3bc9a1a-9539-4ed8-8482-d395cd2f44d6.png"> | <img alt="Screen Shot 2022-11-02 at 12 38 08 PM" src="https://user-images.githubusercontent.com/14044595/199587686-cc1fab07-8037-4885-9e0e-5748cf32f7d0.png">
