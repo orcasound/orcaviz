@@ -6,7 +6,7 @@ A gallery of open data visualizations using Orcasound data. Browse the topical g
 Top ecosystem viz (2022) | Top user data viz (2022)
 :----------------:|:----------------:
 <img alt="Screen Shot 2022-10-30 at 8 07 10 PM" src="https://user-images.githubusercontent.com/14044595/199586546-f3bc9a1a-9539-4ed8-8482-d395cd2f44d6.png"> | <img alt="Screen Shot 2022-11-02 at 12 38 08 PM" src="https://user-images.githubusercontent.com/14044595/199587686-cc1fab07-8037-4885-9e0e-5748cf32f7d0.png">
-Last 7 days of animal locations in the [Acartia.io](https://acartia.io) data cooperative. <br> By [Peter Ince](https://github.com/peterdouglas).  | Last month of daily traffic within the [Orcasound web app](live.orcasound.net). <br> By [Adrian MacDonald](linkedin.com/in/adrian-macdonald). 
+Last 7 days of animal locations in the [Acartia.io](https://acartia.io) data cooperative. <br> By [Peter Ince](https://github.com/peterdouglas), [Ali Alaydrus](https://www.linkedin.com/in/fadliealaydrus/), and Nick Bryne.  | Last month of daily traffic within the [Orcasound web app](live.orcasound.net). <br> By [Adrian MacDonald](linkedin.com/in/adrian-macdonald). 
 
 ## Ecoystem viz caption
 Most of these markers are J pod of the Southern Resident Killer Whales coming in from the Pacific to San Juan Island (upper left blue dots), entering Puget Sound (blue and purple dots), deciding to swim up towards the Skagit river on the inside of Whidbey Island (pink dots), presumably circumnavigating Whidbey and re-entering Puget Sound as far as Seattle vicinity and then exiting towards Pacific again (red dots). Mapbox UI implemented by Peter Ince et al. of  TypeHuman via the [SSEMMI open source repo on Github](https://github.com/Typehuman/SSEMMI). Screenshot by Scott Veirs.
