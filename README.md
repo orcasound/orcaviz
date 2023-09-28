@@ -1,7 +1,11 @@
 # orcaviz
-A gallery of open data visualizations using Orcasound data. Browse the topical galleries for other precedents and innovative ideas. There you can find links to catalytic code and other resources that may be helpful.
+A gallery of open data visualizations using Orcasound data. Annual best efforts are showcased below.
+
+You can also browse the topical directories for other precedents and innovative ideas. There you can find links to catalytic code and other resources that may be helpful.
 
 **Can you create something better than these pioneering best visualizations yet of Orcasound's ecosystem and user data?**
+
+If so, please join the Orcasound Slack and Github organization, and then document your best efforts in the [ecosystem data visualization sandbox](ecosystem-viz.md) or the [user data visualization sandbox](user-viz.md). These are reviewed by the community each fall to select a top contribution for display here. This friendly competition started in 2021.
 
 Top ecosystem viz (2022) | Top user data viz (2022)
 :----------------:|:----------------:
@@ -12,7 +16,7 @@ Last 7 days of animal locations in the [Acartia.io](https://acartia.io) data coo
 Most of these markers are J pod of the Southern Resident Killer Whales coming in from the Pacific to San Juan Island (upper left blue dots), entering Puget Sound (blue and purple dots), deciding to swim up towards the Skagit river on the inside of Whidbey Island (pink dots), presumably circumnavigating Whidbey and re-entering Puget Sound as far as Seattle vicinity and then exiting towards Pacific again (red dots). Mapbox UI implemented by Peter Ince et al. of  TypeHuman via the [SSEMMI open source repo on Github](https://github.com/Typehuman/SSEMMI). Screenshot by Scott Veirs.
 
 ## User data viz caption
-Embedded within the [Orcasound Wordpress site's UX-Dashboard page](https://www.orcasound.net/orcasound-user-data-dashboard/) for transparency. andeasy access during weekly standups, these are Google Analytics events visualized via [Google Looker Studio](https://cloud.google.com/looker-studio).
+Embedded within the [Orcasound Wordpress site's UX-Dashboard page](https://www.orcasound.net/orcasound-user-data-dashboard/) for transparency and easy access during weekly standups, these are Google Analytics events visualized via [Google Looker Studio](https://cloud.google.com/looker-studio).
 
 # Open data sources
 
