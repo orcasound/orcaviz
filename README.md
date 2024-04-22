@@ -9,9 +9,6 @@ If so, please join the Orcasound Slack and Github organization, and then documen
 
 Top ecosystem viz (2023) | Top user data viz (2023)
 :----------------:|:----------------:
-
-<img width="1717" alt="" src="">
-
 <img alt="Screenshot of the orca-salmon dashboard showing a map on the left of fish enumeration locations on the Columbia and Fraser rivers and a time-series plot of the adult Chinook salmon counts on the right" src="https://user-images.githubusercontent.com/14044595/199586546-f3bc9a1a-9539-4ed8-8482-d395cd2f44d6.png"> | <img alt="Screenshot of Google spreadsheet with color-coded prioritation of findings from a usability study of the Acartia data cooperative" src="https://github.com/orcasound/orcaviz/assets/14044595/e42fbf93-1bdd-4a81-9029-03f7055f843c">
 Current estimates of daily adult Chinook salmon returns to the Columbia and Fraser rivers relative to the past two years and the historical mean. The "Southern Resident Orca" tab displays real time and historic orca location data with the first-ever web-based filter for pods J, K, or L.<br> By [Zoe Liu](https://www.linkedin.com/in/liuzoe/).  | Usability data for the [Acartia.io](https://acartia.io) data cooperative prioritized for the development team and mapped into a [Team Capacity view](https://github.com/orgs/salish-sea/projects/8/views/2) within the Acartia internal Github project. <br> By [Megan Rigley](https://www.linkedin.com/in/megan-rigney/). 
 
